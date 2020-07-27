@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121141693786",
+    "firebase_url": "https://randomroute-6d8d7.firebaseio.com",
+    "project_id": "randomroute-6d8d7",
+    "storage_bucket": "randomroute-6d8d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121141693786:android:b5e2fe644d87419c18f763",
+        "android_client_info": {
+          "package_name": "jamicko.tan.random_routes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121141693786-eq1m5bronl0u7q1do2fng0stbtog7to5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo5gz3ZBkPpsb49qTo6auZGxQIvYADOFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121141693786-eq1m5bronl0u7q1do2fng0stbtog7to5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
